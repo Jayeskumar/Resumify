@@ -1,2 +1,0 @@
-Text Editor :Visual Studio Code
-Languages used : HTML,CSS,JavaScript
