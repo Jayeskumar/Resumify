@@ -1,4 +1,4 @@
-//resimify - a Jayes product
+
 function createResume() {
     const fullName = document.getElementById("fullName").value;
     const fullAddress = document.getElementById("fullAddress").value;
